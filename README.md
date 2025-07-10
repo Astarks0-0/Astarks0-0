@@ -1,13 +1,14 @@
 <h1>Hi, I'm Ashley! 👋<br/>
 </h1>
+<a>IT Professional
+</a>
+
 <a>Data Analyst
 </a>
 
 <a>Front-End Developer
 </a>
 
-<a>IT Professional
-</a>
 
 
 - <b>💾SQL Project</b>
