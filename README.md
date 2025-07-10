@@ -1,9 +1,11 @@
 <h1>Hi, I'm Ashley! 👋<br/>
 </h1>
-<a>Data Analyst
+<a>Data Analyst &
 </a>
+
 <a>Front-End Developer
 </a>
+
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques]
