@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ashley! 👋<br/>
 </h1>
-<a>IT Professional <br> Data Analyst <span class="tab"> Front-End Developer
+<a>IT Professional <br> Data Analyst <br> Front-End Developer
 </a>
 
 
