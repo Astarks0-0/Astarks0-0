@@ -22,7 +22,7 @@
 
 <h2>📱Connect with me:
 </h2>
-<a href="(https://www.linkedin.com/in/ashley-s-00788554/)" target="_blank">
+<a href="https://www.linkedin.com/in/ashley-s-00788554" target="_blank">
   <img align="left" alt="ENTER YOUR NAME HERE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
