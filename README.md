@@ -9,6 +9,7 @@
 <a>IT Professional
 </a>
 
+
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques]
 
