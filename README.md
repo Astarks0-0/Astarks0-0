@@ -1,7 +1,9 @@
 <h1>Hi, I'm Ashley! 👋<br/>
 </h1>
+
 <a>IT Professional <br> Data Analyst <br> Front-End Developer
 </a>
+
 
 
 - <b>💾SQL Project</b>
